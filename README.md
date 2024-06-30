@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gajendra Pawar</h1>
-<h3 align="center">A passionate about Bio-Statistics and Statistical Programming.</h3>
+<h3 align="center">A passionate Bio-Statistician and Statistical Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawargajendra&label=Profile%20views&color=0e75b6&style=flat" alt="pawargajendra" /> </p>
 
