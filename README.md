@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gajendra Pawar</h1>
 <h3 align="center">A passionate Bio-Statistician and Statistical Programmer.</h3>
 
-<div align="center"> <img src="https://github.com/pawargajendra/banner.git"> </div>
-
-<img align="left" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2Vv6ZemZhLv3JAIR76LnX2&ust=1719849983290000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICyrOLag4cDFQAAAAAdAAAAABAE">
-
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2Vv6ZemZhLv3JAIR76LnX2&ust=1719849983290000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICyrOLag4cDFQAAAAAdAAAAABAE.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawargajendra&label=Profile%20views&color=0e75b6&style=flat" alt="pawargajendra" /> </p>
